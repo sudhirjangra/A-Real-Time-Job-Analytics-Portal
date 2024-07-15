@@ -1,0 +1,20 @@
+1. Draw a chart between role,job title and job posting where job posting is between ’30-11-2021’ to’30-03-2022’ and work type should be Contract if the preference is male and work type should be Full-time if the preference is female and it should bring company name which are starting with M , A , E and job portal should be indeed as well as country should be starting with letter ‘B’ 
+
+2. Draw a chart between Preference and work type where work type=’Intern’ and latitude should be below 10 and county name should not start with A, B, C and D. This chart should not work at 1 PM to 2 PM as well as 6 Pm to 7PM apart from that this chart should work on all timing. The job title should not contain more than 10 words and company size should be below 50000.
+
+
+3. Draw a chart between company size and company name where company size<50000 and job title should be mechanical engineer and experience should not be more than 5 years and country should be Asian as well as salary should be more than $50k and the work type should be both part time and full time and ignore all other work types and the preference should be male .we should filter candidates those who are applied on idealist 
+Medium 
+4. Draw a chart for top 10 companies who have max Data analyst as Role and Data scientist as Job title and the country name should not have any Asian countries and preference should be female only .we should ignore the countries which starting with letter ‘C’ and latitude is below 10. The job posting date should be between 01/01/2023 to 06/01/2023. The qualification should be B.Tech and we should ignore other qualifications.
+
+5. Draw a chart where qualification=’B.tech,M.tech,PhD’ and work type=’Full time’. The country should be African continent and ignore other countries .Job title should be starting with letter ‘D’ and preference should be a Male.The company size should more than 80000. The contact person should be starting with letter ‘A’ and jon portal should be indeed . We need to place a latitude and longitude and if we click on latitude and longitude we will open a map and show the exact location.
+
+
+6. Draw a chart where country=’india and Germany ’ ,qualification=’B.tech’ and work type=’Full time’ where experience should be more than 2 years and job should be Data Science and salary range should be more than $100k . The india details should be on orange color and Germany details should be on green color . The job portal should be indeed and preference should be female . The job posting date should be below 08/01/2023 and job portal should be indeed .
+
+7. Draw a chart for top 5 roles in 2023 and work type=’Intern’ and Job Title should be Account Director and company should be below 2M.
+
+
+8. Draw a chart for top 20 companies who have max user Experience Designer as Role and UI/UX Designer as Job title and company name should be more than 5 characters.
+
+9. Draw a chart to show relation between country,job title and role.
